@@ -1,0 +1,79 @@
+{
+  "drawingData" : "d3Jk8AEACAA6DggAEP\/\/\/\/\/\/\/\/\/\/fxgAQhCzvJkoJ+ZJpK\/Na+lICE7L",
+  "links" : [
+    {
+      "controlPointOffset" : [
+        0,
+        0
+      ],
+      "createdAt" : "2026-02-12T23:32:18.258Z",
+      "id" : "AC412B16-A233-4A5D-869E-44588193119C",
+      "sourceNodeID" : "6BAE5EEA-7BDB-41C9-A84B-275CB84777CF",
+      "strokeColorAlpha" : 1,
+      "strokeColorBlue" : 0.11372549019607843,
+      "strokeColorGreen" : 0.10196078431372549,
+      "strokeColorRed" : 0.10196078431372549,
+      "targetNodeID" : "DCEEC64A-9FF3-4170-9FAD-89A0339D7453"
+    }
+  ],
+  "nodes" : [
+    {
+      "bounds" : [
+        [
+          24768.5,
+          24815.25
+        ],
+        [
+          182,
+          182
+        ]
+      ],
+      "createdAt" : "2026-02-12T23:32:10.676Z",
+      "createdFromFileDrop" : false,
+      "id" : "DCEEC64A-9FF3-4170-9FAD-89A0339D7453",
+      "isBrokenLink" : false,
+      "links" : [
+        "Me"
+      ],
+      "modifiedAt" : "2026-02-12T23:32:22.667Z",
+      "position" : [
+        24859.5,
+        24906.25
+      ],
+      "ref" : "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/var\/mobile\/Containers\/Data\/Application\/C5688E5D-7CEF-4252-B327-4393082898D2\/Documents\/Vaults\/kaungzinye__EpiScan\/Vault\/Files\/Wow.md",
+      "tags" : [
+
+      ],
+      "title" : "Wow"
+    },
+    {
+      "bounds" : [
+        [
+          25135.25,
+          24854
+        ],
+        [
+          147,
+          147
+        ]
+      ],
+      "createdAt" : "2026-02-12T23:32:16.503Z",
+      "createdFromFileDrop" : false,
+      "id" : "6BAE5EEA-7BDB-41C9-A84B-275CB84777CF",
+      "isBrokenLink" : false,
+      "links" : [
+        "Wow"
+      ],
+      "modifiedAt" : "2026-02-12T23:32:26.446Z",
+      "position" : [
+        25208.75,
+        24927.5
+      ],
+      "ref" : "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/var\/mobile\/Containers\/Data\/Application\/C5688E5D-7CEF-4252-B327-4393082898D2\/Documents\/Vaults\/kaungzinye__EpiScan\/Vault\/Files\/Me.md",
+      "tags" : [
+
+      ],
+      "title" : "Me"
+    }
+  ]
+}
