@@ -1,0 +1,152 @@
+{
+  "drawingData" : "d3Jk8AEACAA6DggAEP\/\/\/\/\/\/\/\/\/\/fxgAQhA5HTPsiRtIdb5uPVqQeC+n",
+  "links" : [
+    {
+      "controlPointOffset" : [
+        6.387567778545221,
+        0
+      ],
+      "createdAt" : "2026-02-12T23:32:18.258Z",
+      "id" : "AC412B16-A233-4A5D-869E-44588193119C",
+      "sourceNodeID" : "6BAE5EEA-7BDB-41C9-A84B-275CB84777CF",
+      "strokeColorAlpha" : 1,
+      "strokeColorBlue" : 0.11372549019607843,
+      "strokeColorGreen" : 0.10196078431372549,
+      "strokeColorRed" : 0.10196078431372549,
+      "targetNodeID" : "DCEEC64A-9FF3-4170-9FAD-89A0339D7453"
+    },
+    {
+      "controlPointOffset" : [
+        0,
+        0
+      ],
+      "createdAt" : "2026-02-12T23:41:24.747Z",
+      "id" : "E87BD6A0-E3E3-4B51-B7CA-15C3B11912A2",
+      "sourceNodeID" : "1819B78B-9F39-42E5-BB92-8C530563CBD0",
+      "strokeColorAlpha" : 1,
+      "strokeColorBlue" : 0.11372549019607843,
+      "strokeColorGreen" : 0.10196078431372549,
+      "strokeColorRed" : 0.10196078431372549,
+      "targetNodeID" : "6BAE5EEA-7BDB-41C9-A84B-275CB84777CF"
+    }
+  ],
+  "nodes" : [
+    {
+      "bounds" : [
+        [
+          24833.58844273774,
+          24710.21515487292
+        ],
+        [
+          182,
+          182
+        ]
+      ],
+      "createdAt" : "2026-02-12T23:32:10.676Z",
+      "createdFromFileDrop" : false,
+      "id" : "DCEEC64A-9FF3-4170-9FAD-89A0339D7453",
+      "isBrokenLink" : true,
+      "links" : [
+        "Me"
+      ],
+      "modifiedAt" : "2026-02-13T00:38:30.165Z",
+      "position" : [
+        24924.58844273774,
+        24801.21515487292
+      ],
+      "ref" : "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/var\/mobile\/Containers\/Data\/Application\/C5688E5D-7CEF-4252-B327-4393082898D2\/Documents\/Vaults\/kaungzinye__EpiScan\/Vault\/Files\/Wow.md",
+      "tags" : [
+
+      ],
+      "title" : "Wow"
+    },
+    {
+      "bounds" : [
+        [
+          25139.644763394434,
+          24878.17119866941
+        ],
+        [
+          147,
+          147
+        ]
+      ],
+      "createdAt" : "2026-02-12T23:32:16.503Z",
+      "createdFromFileDrop" : false,
+      "id" : "6BAE5EEA-7BDB-41C9-A84B-275CB84777CF",
+      "isBrokenLink" : true,
+      "links" : [
+        "Wow",
+        "Bro"
+      ],
+      "modifiedAt" : "2026-02-12T23:41:24.748Z",
+      "position" : [
+        25213.144763394434,
+        24951.67119866941
+      ],
+      "ref" : "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/var\/mobile\/Containers\/Data\/Application\/C5688E5D-7CEF-4252-B327-4393082898D2\/Documents\/Vaults\/kaungzinye__EpiScan\/Vault\/Files\/Me.md",
+      "tags" : [
+
+      ],
+      "title" : "Me"
+    },
+    {
+      "bounds" : [
+        [
+          24881.25,
+          25093
+        ],
+        [
+          145,
+          145
+        ]
+      ],
+      "createdAt" : "2026-02-12T23:41:22.853Z",
+      "createdFromFileDrop" : false,
+      "id" : "1819B78B-9F39-42E5-BB92-8C530563CBD0",
+      "isBrokenLink" : false,
+      "links" : [
+        "Me"
+      ],
+      "modifiedAt" : "2026-02-12T23:41:24.748Z",
+      "position" : [
+        24953.75,
+        25165.5
+      ],
+      "ref" : "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/var\/mobile\/Containers\/Data\/Application\/11D76342-C4F6-46B0-9571-4C43FB245296\/Documents\/Vaults\/kaungzinye__EpiScan\/Vault\/Files\/Bro.md",
+      "tags" : [
+
+      ],
+      "title" : "Bro"
+    },
+    {
+      "bounds" : [
+        [
+          100,
+          100
+        ],
+        [
+          200,
+          100
+        ]
+      ],
+      "createdAt" : "2026-02-13T00:35:47.312Z",
+      "createdFromFileDrop" : false,
+      "id" : "94B05F0A-E242-4DFF-8892-4714C249D26D",
+      "isBrokenLink" : false,
+      "links" : [
+
+      ],
+      "modifiedAt" : "2026-02-13T00:35:47.312Z",
+      "position" : [
+        200,
+        150
+      ],
+      "ref" : "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/var\/mobile\/Containers\/Data\/Application\/11D76342-C4F6-46B0-9571-4C43FB245296\/Documents\/Vaults\/kaungzinye__EpiScan\/Vault\/Files\/Brah.md",
+      "tags" : [
+
+      ],
+      "title" : "Brah"
+    }
+  ]
+}
