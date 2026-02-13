@@ -1,0 +1,124 @@
+{
+  "drawingData" : "d3Jk8AEACAA6DggAEP\/\/\/\/\/\/\/\/\/\/fxgAQhD7nrQ9NuFHjoBPXk7gqd5H",
+  "links" : [
+    {
+      "controlPointOffset" : [
+        0,
+        0
+      ],
+      "createdAt" : "2026-02-13T01:08:53.835Z",
+      "id" : "A0792EF6-1996-404E-AF9E-3B068E1160E9",
+      "sourceNodeID" : "AE767DA0-2B68-45BD-9EAB-ED95449C539C",
+      "strokeColorAlpha" : 1,
+      "strokeColorBlue" : 0.9176470588235294,
+      "strokeColorGreen" : 0.9450980392156862,
+      "strokeColorRed" : 0.9568627450980393,
+      "targetNodeID" : "50DA34E8-7667-4415-8DDB-921A79680CDB"
+    },
+    {
+      "controlPointOffset" : [
+        0,
+        0
+      ],
+      "createdAt" : "2026-02-13T01:09:45.798Z",
+      "id" : "F9622EFF-8E0D-4179-896E-E57B2BA1DB58",
+      "sourceNodeID" : "AE767DA0-2B68-45BD-9EAB-ED95449C539C",
+      "strokeColorAlpha" : 1,
+      "strokeColorBlue" : 0.9176470588235294,
+      "strokeColorGreen" : 0.9450980392156862,
+      "strokeColorRed" : 0.9568627450980393,
+      "targetNodeID" : "A87D083B-7996-45CE-9B56-B2BA346E5870"
+    }
+  ],
+  "nodes" : [
+    {
+      "bounds" : [
+        [
+          24825,
+          24878.25
+        ],
+        [
+          200.5,
+          200.5
+        ]
+      ],
+      "createdAt" : "2026-02-13T01:08:34.709Z",
+      "createdFromFileDrop" : false,
+      "id" : "AE767DA0-2B68-45BD-9EAB-ED95449C539C",
+      "isBrokenLink" : false,
+      "links" : [
+        "Okay",
+        "Fine shyt-1"
+      ],
+      "modifiedAt" : "2026-02-13T01:09:45.799Z",
+      "position" : [
+        24925.25,
+        24978.5
+      ],
+      "ref" : "Files\/How.md",
+      "tags" : [
+
+      ],
+      "title" : "How"
+    },
+    {
+      "bounds" : [
+        [
+          25207.5,
+          24813.5
+        ],
+        [
+          158.5,
+          137.5
+        ]
+      ],
+      "createdAt" : "2026-02-13T01:08:52.076Z",
+      "createdFromFileDrop" : false,
+      "id" : "50DA34E8-7667-4415-8DDB-921A79680CDB",
+      "isBrokenLink" : false,
+      "links" : [
+        "How"
+      ],
+      "modifiedAt" : "2026-02-13T01:09:47.502Z",
+      "position" : [
+        25286.75,
+        24882.25
+      ],
+      "ref" : "Files\/Fine shyt.md",
+      "tags" : [
+
+      ],
+      "title" : "Fine shyt"
+    },
+    {
+      "bounds" : [
+        [
+          25147,
+          25097.5
+        ],
+        [
+          158.5,
+          137.5
+        ]
+      ],
+      "createdAt" : "2026-02-13T01:09:34.834Z",
+      "createdFromFileDrop" : false,
+      "id" : "A87D083B-7996-45CE-9B56-B2BA346E5870",
+      "isBrokenLink" : false,
+      "links" : [
+        "How",
+        "How"
+      ],
+      "modifiedAt" : "2026-02-13T01:09:46.724Z",
+      "position" : [
+        25226.25,
+        25166.25
+      ],
+      "ref" : "Files\/Fine shyt.md",
+      "tags" : [
+
+      ],
+      "title" : "Fine shyt-1"
+    }
+  ]
+}
